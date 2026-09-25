@@ -26,6 +26,13 @@ const works = [
     tags: [ 'Flutter', 'Dart']
   },
 
+
+   {
+    title: 'موقع صراف - العملات -  ',
+    desc: 'صممت هذا الموقع لتحويل العملات بطريقة بسيطة وسريعة، مع دعم العربية والكوردية.',
+    link: 'https://slimanxzc.github.io/sarraf.iq/',
+    tags: [ 'Html', 'Css','Javascript']
+  },
 ];
 
 /* ===== توليد قائمة الأعمال ===== */
